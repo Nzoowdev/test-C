@@ -1,0 +1,1 @@
+# folder for test code with pointer
